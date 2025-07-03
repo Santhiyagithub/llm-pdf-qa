@@ -43,4 +43,4 @@ This project is a proof-of-concept for integrating LLM-based Q&A over PDF docume
    cd llm-pdf-qa
 
    # Install dependencies
-pip install -r requirements.txt
+    pip install -r requirements.txt
