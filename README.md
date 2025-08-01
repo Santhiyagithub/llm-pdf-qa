@@ -41,6 +41,9 @@ This project is a proof-of-concept for integrating LLM-based Q&A over PDF docume
    ```bash
    git clone https://github.com/Santhiyagithub/llm-pdf-qa.git
    cd llm-pdf-qa
-
+   ```
+   
    # Install dependencies
+   ```bash
     pip install -r requirements.txt
+   ```
