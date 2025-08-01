@@ -36,14 +36,13 @@ This project is a proof-of-concept for integrating LLM-based Q&A over PDF docume
 | `Google Colab`       | Development and testing environment        |
 
 ## 🛠️ How to Run
-
-1. Clone the repo:
+   ###Clone the repo:
    ```bash
    git clone https://github.com/Santhiyagithub/llm-pdf-qa.git
    cd llm-pdf-qa
    ```
    
-   # Install dependencies
+   ###Install dependencies
    ```bash
     pip install -r requirements.txt
    ```
